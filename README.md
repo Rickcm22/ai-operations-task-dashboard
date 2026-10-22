@@ -43,3 +43,6 @@ npm install
 
 # Start local server
 npm start
+
+# Start local server
+npm start

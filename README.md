@@ -36,7 +36,7 @@
 
 ```bash
 # Clone repository
-git clone [https://github.com/Rickcm22/ai-operations-task-dashboard.git]
+git clone [https://github.com/Rickcm22/ai-operations-task-dashboard.git](https://github.com/Rickcm22/ai-operations-task-dashboard.git)
 
 # Install dependencies
 npm install

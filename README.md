@@ -21,7 +21,7 @@
 ## 🎨 3. UI Design & Design System (Figma)
 - **Design Tokens:** Cyberpunk & Dark Tech Slate palette (`#0F172A`, `#FF003C`, `#38BDF8`).
 - **Components:** Interactive Task Cards, Sprint Velocity Widgets, AI Prompt Modal.
-- **Figma Design File:** 🔗 *[Link to Figma Workspace]*
+- **Figma Design File:** 🔗 [AI Operations Task Dashboard — UI/UX Kit](https://www.figma.com/design/22e9mRN2UjxXznhFDRJv0s/AI-Operations-Task-Dashboard-%E2%80%94-UI-UX-Kit?node-id=1-3&t=tU3wUobVvXtSVY5r-1)
 
 ---
 
@@ -36,13 +36,10 @@
 
 ```bash
 # Clone repository
-git clone [https://github.com/Rickcm22/ai-operations-task-dashboard.git](https://github.com/Rickcm22/ai-operations-task-dashboard.git)
+git clone (https://github.com/Rickcm22/ai-operations-task-dashboard.git)
 
 # Install dependencies
 npm install
-
-# Start local server
-npm start
 
 # Start local server
 npm start
